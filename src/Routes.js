@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import {
-  BrowserRouter as Router,
+ HashRouter,
   Switch,
   Route
 } from "react-router-dom";
@@ -11,13 +11,13 @@ import Cardetail from "./Cardetail";
 export default class Routes extends Component {
   render() {
     return (
-      <Router>
+      <HashRouter>
         <Switch>
           <Route path="/" exact component={App} />
           <Route path="/Carslist" component={Carslist} />
           <Route path="/Cardetail/:id" component={Cardetail} />
         </Switch>
-      </Router>
+      </HashRouter>
     );
   }
 }
