@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Simpli5d/static/css/main.30978d1b.chunk.css",
+    "main.js": "/Simpli5d/static/js/main.ba12646a.chunk.js",
+    "main.js.map": "/Simpli5d/static/js/main.ba12646a.chunk.js.map",
+    "runtime-main.js": "/Simpli5d/static/js/runtime-main.a090f199.js",
+    "runtime-main.js.map": "/Simpli5d/static/js/runtime-main.a090f199.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Simpli5d/static/css/2.fe359a49.chunk.css",
+    "static/js/2.929a3e93.chunk.js": "/Simpli5d/static/js/2.929a3e93.chunk.js",
+    "static/js/2.929a3e93.chunk.js.map": "/Simpli5d/static/js/2.929a3e93.chunk.js.map",
+    "index.html": "/Simpli5d/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Simpli5d/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.30978d1b.chunk.css.map": "/Simpli5d/static/css/main.30978d1b.chunk.css.map",
+    "static/js/2.929a3e93.chunk.js.LICENSE.txt": "/Simpli5d/static/js/2.929a3e93.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a090f199.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.929a3e93.chunk.js",
+    "static/css/main.30978d1b.chunk.css",
+    "static/js/main.ba12646a.chunk.js"
+  ]
+}
