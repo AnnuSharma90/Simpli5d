@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Simpli5d/static/css/main.30978d1b.chunk.css",
-    "main.js": "/Simpli5d/static/js/main.952e97d0.chunk.js",
-    "main.js.map": "/Simpli5d/static/js/main.952e97d0.chunk.js.map",
+    "main.js": "/Simpli5d/static/js/main.70e63008.chunk.js",
+    "main.js.map": "/Simpli5d/static/js/main.70e63008.chunk.js.map",
     "runtime-main.js": "/Simpli5d/static/js/runtime-main.a090f199.js",
     "runtime-main.js.map": "/Simpli5d/static/js/runtime-main.a090f199.js.map",
     "static/css/2.fe359a49.chunk.css": "/Simpli5d/static/css/2.fe359a49.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.fe359a49.chunk.css",
     "static/js/2.929a3e93.chunk.js",
     "static/css/main.30978d1b.chunk.css",
-    "static/js/main.952e97d0.chunk.js"
+    "static/js/main.70e63008.chunk.js"
   ]
 }
