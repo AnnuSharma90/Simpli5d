@@ -17,7 +17,7 @@ function App() {
         carmakers offer
       </p>
       
-      <Link to={"/Carslist"}>Buy Now!</Link>
+      <Link to={"/Simpli5d/Carslist"}>Buy Now!</Link>
     </div>
   );
 }

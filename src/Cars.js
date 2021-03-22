@@ -13,7 +13,7 @@ function Cars({ id, src, name, price }) {
               Name:{name}
             </p>
             <p className="f6 gray mv1">Price:{price}</p>
-            <NavLink to={`/Cardetail/${id}`} activeStyle={{color:"white", textDecoration:"none"}} >View Details</NavLink>
+            <NavLink to={`/Simpli5d/Cardetail/${id}`} activeStyle={{color:"white", textDecoration:"none"}} >View Details</NavLink>
           </div>
         </div>
       </div>
