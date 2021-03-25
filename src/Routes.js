@@ -1,14 +1,11 @@
 import React, { Component } from "react";
-import {
- BrowserRouter,
-  Switch,
-  Route
-} from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import App from "./App.js";
 import Carslist from "./Carslist";
 import Cardetail from "./Cardetail";
 
 export default class Routes extends Component {
+  
   render() {
     return (
       <BrowserRouter>
